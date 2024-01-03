@@ -1,34 +1,39 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Bertoni":
+  - firstname: ["Liana", "L."]
+    url: https://www.iit.it/it/web/guest/people-details/-/people/liana-bertoni
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Muratore":
+  - firstname: ["Luca", "L."]
+    url: https://www.iit.it/it/web/guest/people-details/-/people/luca-muratore
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Tsagarakis":
+  - firstname: ["Nikos", "N.", "Nikos G."]
+    url: https://www.iit.it/it/web/guest/people-details/-/people/nikos-tsagarakis
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"De Luca":
+  - firstname: ["Alessio", "A."]
+    url: https://www.iit.it/it/web/guest/staff/-/people/alessio-deluca
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Laurenzi":
+  - firstname: ["Arturo", "A."]
+    url: https://www.iit.it/it/web/guest/people-details/-/people/arturo-laurenzi
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Fusaro": 
+  - firstname: ["Fabio", "F."]
+    url: https://www.linkedin.com/in/fabio-fusaro-69aa361a4/?originalSubdomain=it
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Zhang":
+  - firstname: ["Yifang", "Y."]
+    url: https://www.iit.it/it/web/guest/people-details/-/people/yifang-zhang
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Pozzi":
+  - firstname: ["Maria", "M."]
+    url: https://docenti.unisi.it/it/pozzi-2
 
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Prattichizzo":
+  - firstname: ["Domenico", "D."]
+    url: https://en.wikipedia.org/wiki/Domenico_Prattichizzo
+
+"Franco":
+  - firstname: ["Leonardo", "L."]
+    url: https://www.researchgate.net/profile/Leonardo-Franco-2

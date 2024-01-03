@@ -1,6 +1,36 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"RA-L":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369
+  color: "#0A6694"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ICRA":
+  url: https://ieeexplore.ieee.org/xpl/conhome/1000639/all-proceedings
+  color: "#0A6694"
+
+"IROS":
+  url: https://ieeexplore.ieee.org/xpl/conhome/1000393/all-proceedings
+  color: "#0A6694"
+
+"ICAR":
+  url: https://ieeexplore.ieee.org/xpl/conhome/1000016/all-proceedings
+  color: "#0A6694"
+
+"HUMANOIDS":
+  url: https://ieeexplore.ieee.org/xpl/conhome/1002042/all-proceedings
+  color: "#0A6694" 
+
+"IRIM":
+  url: https://i-rim.it/it/
+  color: "#37627C" 
+
+"JIRS":
+  url: "https://www.springer.com/journal/10846"
+  color: "#242B66" 
+
+"SENSORS":
+  url: "https://www.mdpi.com/journal/sensors"
+  color: "#007c7f" 
+
+
+
+
+
