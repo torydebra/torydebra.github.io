@@ -4,6 +4,7 @@ github_users:
 github_repos:
   - torydebra/AwesomeRoboticsConferencesAndSchoolsList
   - ADVRHumanoids/ROSEndEffector
+  - ADVRHumanoids/nn_laser_spot_tracking
   - ADVRHumanoids/point_cloud2_filters
   - torydebra/AUV-Coop-Assembly
   - torydebra/SpaceManipulatorControl
