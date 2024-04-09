@@ -4,7 +4,7 @@ title: IROS22 Poster
 description: Poster for the IROS22 paper
 img: assets/img/IROS22_poster.jpg
 redirect: #
-importance: 3
+importance: 4
 category: Posters
 related_publications: TPO2
 ---

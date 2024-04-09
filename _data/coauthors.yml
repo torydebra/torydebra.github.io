@@ -30,6 +30,10 @@
   - firstname: ["Maria", "M."]
     url: https://docenti.unisi.it/it/pozzi-2
 
+"Malvezzi":
+  - firstname: ["Monica", "M."]
+    url: https://docenti.unisi.it/it/malvezzi
+
 "Prattichizzo":
   - firstname: ["Domenico", "D."]
     url: https://en.wikipedia.org/wiki/Domenico_Prattichizzo
@@ -37,3 +41,7 @@
 "Franco":
   - firstname: ["Leonardo", "L."]
     url: https://www.researchgate.net/profile/Leonardo-Franco-2
+
+"Baccelliere":
+  - firstname: ["Lorenzo", "L."]
+    url: https://www.iit.it/people-details/-/people/lorenzo-baccelliere
