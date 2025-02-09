@@ -68,7 +68,7 @@
   contents: Journals and Conferences list available at <a href="https://scholar.google.com/citations?user=KPZ7hz0AAAAJ">Google Scholar</a> or 
     <a href="https://torydebra.github.io/publications/">here</a>
 
-- title: Scientific Talks
+- title: Scientific Talks & Conferences Attended
   type: time_table
   contents:
     - title: <a href="https://rosindustrial.org/">ROSIN FTP Webinar Series&#58 "ROS End-Effector"</a>
@@ -82,17 +82,17 @@
       maindescription: I presented the paper titled "Towards an Open-Source Hardware Agnostic Framework for Robotic End-Effectors Control"
 
     - title: <a href="https://www.icra2022.org/">IEEE International Conference on Robotics and Automation (ICRA)</a>
-      location: Philadelphia<br>(PA), USA
+      location: Philadelphia<br>(PA),<br>USA
       year: 05-2022
       maindescription: I presented the paper titled "TelePhysicalOperation&#58 Remote Robot Control Based on a Virtual 'Marionette' Type Interaction Interface"
 
     - title: <a href="https://roscon.ros.org/2022/">ROSCON</a>
-      location: Kyoto, Japan
+      location: Kyoto,<br>Japan<br>
       year: 10-2022
       maindescription: I co-presented the talk "Exploiting ROS 2 to facilitate end-effectors integration and control"
 
     - title: <a href="https://iros2022.org/">IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</a>
-      location: Kyoto, Japan
+      location: Kyoto,<br>Japan<br>
       year: 10-2022
       maindescription: I presented the paper titled "Manipulability-Aware Shared Locomanipulation Motion Generation for Teleoperation of Mobile Manipulators"
 
@@ -105,6 +105,32 @@
       location: Stuttgart,<br>Germany<br>(virtual<br>participation)
       year: 12-2022
       maindescription: I co-presented the talk "ROS End-Effector&#58 A hardware-agnostic framework to facilitate end-effectors integration, planning and control with the ROS2 middleware"
+  
+    - title: <a href="https://roscon.ros.org/2023/">ROSCON</a>
+      location: New Orleans<br>(LA),<br>USA
+      year: 10-2023
+      maindescription: Attended
+
+    - title: <a href="https://erf2024.eu/">ERF</a>
+      location: Rimini,<br>Italy
+      year: 03-2024
+      maindescription: Attended as support for lab demos
+
+    - title: <a href="https://2024.ieee-icra.org/">IEEE International Conference on Robotics and Automation (ICRA)</a>
+      location: Yokohama,<br>Japan<br>
+      year: 05-2024
+      maindescription: I presented the paper titled "Wearable Haptics for a Marionette-inspired Teleoperation of Highly Redundant Robotic Systems"
+
+    - title: <a href="https://roscon.ros.org/2024/">ROSCON</a>
+      location: Odense,<br>Denmark
+      year: 10-2024
+      maindescription: I co-presented the talk "Unlocking the Potential of the Nicla Vision Board with ROS / ROS 2"
+
+    - title: <a href="https://2024.ieee-humanoids.org/">IEEE-RAS International Conference on Humanoid Robots (Humanoids)</a>
+      location: Nancy,<br>France
+      year: 11-2024
+      maindescription: As second author, I presented the paper "A High-Force Gripper with Embedded Multimodal Sensing for Powerful and Perception Driven Grasping"
+
 
 - title: Technical Skills
   type: list
@@ -215,6 +241,9 @@
     - year: 2016
       items: 
         - Scholarship "IRIS 2016 prize - best freshmen of academic year 2014-15" - Università degli studi di Genova, IRIS
+    - year: 2023
+      items:
+        - <a href="https://www.mondodigitale.org/notizie/robotic-award-i-20-finalisti">Finalist "Advancing Technology for Humanity. Most Promising Researcher in Robotics and AI" - Fondazione Mondo Digitale e Università Campus Bio-Medico di Roma</a>
 
 - title: Hobbies and Interests
   type: list
