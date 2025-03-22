@@ -1,14 +1,17 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - torydebra
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - torydebra/AwesomeRoboticsConferencesAndSchoolsList
+  - ADVRHumanoids/ROSEndEffector
+  - ADVRHumanoids/nn_laser_spot_tracking
+  - ADVRHumanoids/point_cloud2_filters
+  - torydebra/AUV-Coop-Assembly
+  - torydebra/SpaceManipulatorControl
+  - torydebra/Looking-for-Caresses
+  - torydebra/ObstacleAvoidanceYouBot_GP
+  - torydebra/Neural-Oscillators-Cluster-with-Miro-robot  
+  - torydebra/WifiPoints-Website
+  - torydebra/AndroidStudyGroups

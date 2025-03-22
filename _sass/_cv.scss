@@ -115,7 +115,8 @@ div.list-group {
 }
 
 td.list-group-category {
-  color: var(--global-theme-color);
+  //color: var(--global-theme-color);
+  font-weight: bold;
   margin-bottom: 0.5rem;
 }
 

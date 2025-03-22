@@ -1,34 +1,51 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"bertoni":
+  - firstname: ["Liana", "L."]
+    url: https://www.iit.it/people-details/-/people/liana-bertoni
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"muratore":
+  - firstname: ["Luca", "L."]
+    url: https://www.iit.it/people-details/-/people/luca-muratore
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"tsagarakis":
+  - firstname: ["Nikos", "N.", "Nikos G."]
+    url: https://www.iit.it/people-details/-/people/nikos-tsagarakis
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"de luca":
+  - firstname: ["Alessio", "A."]
+    url: https://www.iit.it/people-details/-/people/alessio-deluca
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"laurenzi":
+  - firstname: ["Arturo", "A."]
+    url: https://www.iit.it/people-details/-/people/arturo-laurenzi
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"gasperini":
+  - firstname: ["Damiano", "D."]
+    url: https://www.iit.it/people-details/-/people/damiano-gasperini
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"fusaro": 
+  - firstname: ["Fabio", "F."]
+    url: https://www.linkedin.com/in/fabio-fusaro-69aa361a4/?originalSubdomain=it
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"zhang":
+  - firstname: ["Yifang", "Y."]
+    url: https://www.iit.it/people-details/-/people/yifang-zhang
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"pozzi":
+  - firstname: ["Maria", "M."]
+    url: https://docenti.unisi.it/it/pozzi-2
+
+"malvezzi":
+  - firstname: ["Monica", "M."]
+    url: https://docenti.unisi.it/it/malvezzi
+
+"prattichizzo":
+  - firstname: ["Domenico", "D."]
+    url: https://en.wikipedia.org/wiki/Domenico_Prattichizzo
+
+"franco":
+  - firstname: ["Leonardo", "L."]
+    url: https://www.researchgate.net/profile/Leonardo-Franco-2
+
+"baccelliere":
+  - firstname: ["Lorenzo", "L."]
+    url: https://www.iit.it/people-details/-/people/lorenzo-baccelliere
