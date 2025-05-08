@@ -77,6 +77,11 @@ ninja.data = [{
           description: "Poster for the ICRA24 paper",
           section: "Projects",handler: () => {
               window.location.href = "/projects/poster_icra24/";
+            },},{id: "projects-icra25-poster",
+          title: 'ICRA25 Poster',
+          description: "Poster for the ICRA25 paper",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/poster_icra25/";
             },},{id: "projects-irim22-poster",
           title: 'IRIM22 Poster',
           description: "Poster for the IRIM22 paper",
