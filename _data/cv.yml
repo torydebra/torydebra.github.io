@@ -131,6 +131,11 @@
       year: 11-2024
       maindescription: As second author, I presented the paper "A High-Force Gripper with Embedded Multimodal Sensing for Powerful and Perception Driven Grasping"
 
+    - title: <a href="https://2025.ieee-icra.org/">IEEE International Conference on Robotics and Automation (ICRA)</a>
+      location: Atlanta<br>(GA),<br>USA
+      year: 05-2025
+      maindescription: I presented the paper titled "A Laser-Guided Interaction Interface for Providing Effective Robot Assistance to People With Upper Limbs Impairments​"
+
 
 - title: Technical Skills
   type: list
@@ -191,6 +196,8 @@
           level: lab framework
         - name: <a href="https://advrhumanoids.github.io/CartesianInterface/">CartesI\O</a>
           level: lab framework
+        - name: <a href="https://isaac-sim.github.io/IsaacLab/main/index.html">Isaac Lab</a>
+          level: recent using it for learning how to manipulate
         - name: <a href="https://visp.inria.fr/">ViSP</a>
           level: used in uni
 

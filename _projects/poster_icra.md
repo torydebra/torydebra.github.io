@@ -4,7 +4,7 @@ title: ICRA22 Poster
 description: Poster for the ICRA22 paper
 img: assets/img/ICRA22_poster.jpg
 redirect: #
-importance: 3
+importance: 4
 category: Posters
 related_publications: TPO0
 giscus_comments: false

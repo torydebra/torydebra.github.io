@@ -4,7 +4,7 @@ title: ICRA24 Poster
 description: Poster for the ICRA24 paper
 img: assets/img/ICRA24_poster.jpg
 redirect: #
-importance: 2
+importance: 3
 category: Posters
 related_publications: TPO4
 giscus_comments: false
