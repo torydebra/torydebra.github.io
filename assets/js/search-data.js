@@ -30,8 +30,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-repositories",
-          title: "Repositories",
+        },{id: "nav-dissemination-posters",
+          title: "Dissemination Posters",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/posters/";
+          },
+        },{id: "nav-github-repos",
+          title: "Github Repos",
           description: "Pinned Repo",
           section: "Navigation",
           handler: () => {
@@ -42,6 +49,11 @@ ninja.data = [{
           description: "Basic and raw Android app to contol some Midi functionalities of the Casio CT-S1 keyboard",
           section: "Projects",handler: () => {
               window.location.href = "/projects/casio_midi_controller/";
+            },},{id: "projects-gpd-ros-wrapper",
+          title: 'gpd_ros_wrapper',
+          description: "Wrapper for the grasp pose detection lib (https://github.com/atenpas/gpd) to make it works with ROS (noetic) with some additional features (e.g. point cloud processing).",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/gpd_ros_wrapper/";
             },},{id: "projects-neural-network-laser-pointer-tracking",
           title: 'Neural Network Laser Pointer Tracking',
           description: "Detect (and practically track) in the ROS world a laser spot emitted from a common laser pointer.",
