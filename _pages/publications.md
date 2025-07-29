@@ -8,6 +8,8 @@ sections:
     text: "Journal articles"
   - bibquery: "@inproceedings"
     text: "Conference Proceedings"
+  - bibquery: "@thesis"
+    text: "Thesis"
   - bibquery: "@preprint"
     text: "Unpublished (Yet)"
   - bibquery: "@articleB"
