@@ -4,12 +4,16 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - torydebra/AwesomeRoboticsConferencesAndSchoolsList
   - ADVRHumanoids/ROSEndEffector
   - ADVRHumanoids/nn_laser_spot_tracking
   - ADVRHumanoids/point_cloud2_filters
+  - ADVRHumanoids/nicla_vision_drivers
+  - ADVRHumanoids/nicla_vision_ros
   - ADVRHumanoids/hhcm_yolo_ros
   - ADVRHumanoids/hhcm_yolo_training
+  - ADVRHumanoids/hhcm_bt_cpp_libs
+  - ADVRHumanoids/iit-gazebo-worlds-pkg
+  - torydebra/AwesomeRoboticsConferencesAndSchoolsList
   - torydebra/AUV-Coop-Assembly
   - torydebra/SpaceManipulatorControl
 #  - torydebra/Looking-for-Caresses
