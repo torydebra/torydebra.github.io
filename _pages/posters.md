@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
-description: Some of my relevant projects
+title: Dissemination Posters
+permalink: /posters/
+description:
 nav: true
-nav_order: 2
-display_categories: [ROS, Other]
+nav_order: 5
+display_categories: [Posters]
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
+<!-- pages/posters.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->

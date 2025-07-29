@@ -8,10 +8,12 @@ github_repos:
   - ADVRHumanoids/ROSEndEffector
   - ADVRHumanoids/nn_laser_spot_tracking
   - ADVRHumanoids/point_cloud2_filters
+  - ADVRHumanoids/hhcm_yolo_ros
+  - ADVRHumanoids/hhcm_yolo_training
   - torydebra/AUV-Coop-Assembly
   - torydebra/SpaceManipulatorControl
-  - torydebra/Looking-for-Caresses
-  - torydebra/ObstacleAvoidanceYouBot_GP
-  - torydebra/Neural-Oscillators-Cluster-with-Miro-robot  
+#  - torydebra/Looking-for-Caresses
+#  - torydebra/ObstacleAvoidanceYouBot_GP
+#  - torydebra/Neural-Oscillators-Cluster-with-Miro-robot  
   - torydebra/WifiPoints-Website
   - torydebra/AndroidStudyGroups
